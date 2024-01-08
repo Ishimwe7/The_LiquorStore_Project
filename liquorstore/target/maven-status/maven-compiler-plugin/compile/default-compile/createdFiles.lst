@@ -1,0 +1,12 @@
+com\nyanja\liquorstore\JakartaRestConfiguration.class
+com\nyanja\liquorstore\Customer.class
+com\nyanja\liquorstore\CustomerServlet.class
+com\nyanja\liquorstore\CustomerLogin.class
+com\nyanja\liquorstore\RegisterCustomer.class
+com\nyanja\liquorstore\VendorDao.class
+com\nyanja\liquorstore\VendorServlet.class
+com\nyanja\liquorstore\Vendor.class
+com\nyanja\liquorstore\loginVendorServlet.class
+com\nyanja\liquorstore\Test.class
+com\nyanja\liquorstore\NewProduct.class
+com\nyanja\liquorstore\Validation.class
